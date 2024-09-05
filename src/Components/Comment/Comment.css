@@ -1,0 +1,9 @@
+.goto-home {
+    text-decoration: none;
+    border: 1px solid gray;
+    padding: 1rem;
+    border-radius: .5rem;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}

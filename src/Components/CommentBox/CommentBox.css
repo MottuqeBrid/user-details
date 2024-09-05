@@ -1,0 +1,23 @@
+.comment-box {
+    border: 3px solid palevioletred;
+    margin: 30px 50px;
+    padding: 20px;
+    border-radius: 2rem;
+    box-shadow: 0 0 1rem 0 gray;
+}
+
+.comment-box h2 {
+    text-transform: capitalize;
+    font-size: 1.2rem;
+}
+
+.img-name {
+    display: flex;
+    grid-gap: 1rem;
+}
+
+.img-name img {
+    border-radius: 50%;
+    width: 3rem;
+    height: 3rem;
+}
